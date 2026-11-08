@@ -10,7 +10,7 @@ The project demonstrates frontend development combined with economic data analys
 
 ![EU Macro Monitor Dashboard](public/dashboard-preview.png)
 
-**Live Demo:** Coming soon
+**Live Demo:** https://eu-macro-monitor.vercel.app
 
 ## Features
 
